@@ -20,11 +20,9 @@
 
 #### 🤔 Who Am I!?
 
-- 🏫 I am a Junior pursuing a Bachelor’s degree in Computer Sciences from the Global Engineering College, Jabalpur (M.P.) [2023].
-- ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, UI/UX Designs, and little bit about in Flutter.
-- 🔭 I’m currently working with Multiple Open Source Projects & Startups.
-- ♥️ I am an open-source lover and that's why I regularly contribute to open-source products.
-> 🐱‍💻 Not very active in Competitive Programming anymore, but if i get time or feeling, i do :)
+- 🏫 I am a third year student pursuing a Bachelor’s degree in Computer Sciences from the Shri Madhwa Vadiraja Institute of Techonolgy Bantakal (KA) [2022]
+- ⚡️ My expertise primarily revolves around JavaScript,PHP,Laravel,Python,C#,C++,Unity and little bit about in Flutter.
+- ♥️ I am an open-source contributor
 
 [![Leetcode](https://img.shields.io/badge/Leetcode-2063-orange)](https://leetcode.com/Siddhant_Khare/)&nbsp;&nbsp;&nbsp;&nbsp;[![Codechef](https://cp-logo.vercel.app/codechef/siddhant_k)](https://www.codechef.com/users/siddhant_k)&nbsp;&nbsp;&nbsp;[![Codeforces](https://cp-logo.vercel.app/codeforces/siddhant_k)](https://codeforces.com/profile/siddhant_k)&nbsp;&nbsp;&nbsp;[![Atcoder](https://cp-logo.vercel.app/atcoder/Siddhant_Khare)](https://atcoder.jp/users/Siddhant_Khare) 
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :

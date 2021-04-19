@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="https://github.com/Rayson-LD?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rayson_LD?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/Rayson-LD?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>  
  </p>
  

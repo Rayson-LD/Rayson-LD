@@ -17,7 +17,8 @@
 - Java
 - C++
 - C#
-
+###GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Rayson-LD&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 <p align="center">
 <a href="https://github.com/Rayson-LD?tab=followers">
     <img src="https://img.shields.io/github/followers/Rayson-LD?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />

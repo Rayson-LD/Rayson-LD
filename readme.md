@@ -8,7 +8,7 @@
 #### 🤔 Who Am I!?
 
 - 🏫 I am a third year student pursuing a Bachelor’s degree in Computer Science from the Shri Madhwa Vadiraja Institute of Technology Bantakal (KA) [2022]
-- ⚡️ My expertise primarily revolves around JavaScript,PHP,Laravel,Python,C#,C++,Unity and little bit about in Flutter.
+- ⚡️ My expertise primarily resides around Laravel,Python,SQL,C++,Unity and little bit about in Flutter.
 - ♥️ I am an open-source contributor
  
 #### 👨🏻‍💻 Mostly Used Languages, Frameworks :

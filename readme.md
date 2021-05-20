@@ -5,7 +5,7 @@
 <a href="https://www.facebook.com/rayson.dsouza.9"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="30" height="30"></a>
 <br>
 
-#### 🤔 Who Am I!?
+#### 🤔 A Little About Me..
 
 - 🏫 I am a third year student pursuing a Bachelor’s degree in Computer Science from the Shri Madhwa Vadiraja Institute of Technology Bantakal (KA) [2022]
 - ⚡️ My expertise primarily resides around Laravel,Python,SQL,C++,Unity and little bit about in Flutter.
